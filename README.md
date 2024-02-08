@@ -1,4 +1,4 @@
-### Hi there 👋
+![Snake animation](https://github.com/si963hz/si963hz/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **si963hz/si963hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
