@@ -1,4 +1,4 @@
-
+[![Snake generator](https://github.com/si963hz/si963hz/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/si963hz/si963hz/actions/workflows/main.yml)
 <!--
 **si963hz/si963hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
