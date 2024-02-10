@@ -1,4 +1,4 @@
-[![Snake generator](https://github.com/si963hz/si963hz/actions/workflows/main.yml)
+![Snake generator](https://github.com/si963hz/si963hz/actions/workflows/main.yml)
 
 
 <!--
