@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!--   GitHub snake contribution graph -->
-<h3 align="center"> 🐍 GitHub Snake eating my contribution graph: </h3>
+
 
 [![Generate Snake](https://github.com/si963hz/si963hz/actions/workflows/main.yml/badge.svg)](https://github.com/si963hz/si963hz/actions/workflows/main.yml)
 
