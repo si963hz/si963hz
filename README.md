@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/si963hz/si963hz/blob/output/github-contribution-grid-snake.svg)
-
-
 <!--   GitHub snake contribution graph -->
 <h3 align="center"> 🐍 GitHub Snake eating my contribution graph: </h3>
 
