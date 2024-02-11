@@ -33,8 +33,6 @@ Here are some ideas to get you started:
 <!--   GitHub snake contribution graph -->
 
 
-[![Generate Snake](https://github.com/si963hz/si963hz/actions/workflows/main.yml/badge.svg)](https://github.com/si963hz/si963hz/actions/workflows/main.yml)
 
-![Snake animation](https://github.com/Platane/Platane/blob/output/github-contribution-grid-snake.svg)
 
 <!--   GitHub snake contribution graph -->
