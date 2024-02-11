@@ -1,9 +1,9 @@
-![Visitor Count](https://profile-counter.glitch.me/si963hz/count.svg)
-
-![](https://github.com/si963hz/si963hz/blob/main/dex7lvj-420102bc-f641-4268-be75-419023d00059.gif)
+<div>
+<div>
+![](https://github.com/si963hz/si963hz/blob/main/dex7lvj-420102bc-f641-4268-be75-419023d00059.gif)</div>
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /></div>
-
+</div>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -43,3 +43,6 @@
                    9 6 3     *                
                                               
 ```
+
+
+![Visitor Count](https://profile-counter.glitch.me/si963hz/count.svg)
