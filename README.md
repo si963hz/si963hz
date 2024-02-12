@@ -1,5 +1,5 @@
 ------
-![](https://github.com/si963hz/si963hz/blob/main/gitbanner.gif)
+![](https://github.com/si963hz/si963hz/blob/main/github-banner.gif)
 
 ------
 
